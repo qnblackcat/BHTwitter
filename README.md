@@ -1,15 +1,94 @@
 # Credits:
-- @haoict
 
+- [BandarH](https://twitter.com/bandarhl?s=21) - for [**BHTwitter**](https://github.com/BandarHL/BHTwitter) and his solution for [Twitter-login (Sideload)](https://gist.github.com/e99a4ab4afb3f74f29c9525684092563).
 
-# BHTwitter
-- awesome Tweak for Twitter
+- [haoict](https://twitter.com/haoict?s=21) - developer of [**Twitter No Ads**](https://github.com/haoict/twitter-no-ads).
+
+- [Tanner B](https://twitter.com/NSExceptional) - solution for Skip Analytics URL (`t.co`).
+
+- [CodeyMooreDev](https://twitter.com/codeymooredev?s=21) - developer of [**TwttrBlue**](https://codeymoore.github.io/repo/).
+
+- [Abdullah](https://twitter.com/m3rfwsh?s=21) - developer of [**TwitterAutoHighQuality**](https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=twitterauto4kDp).
+
 
 # Features
-- Download Videos (even if account privet).
-- Download Videos from DM (hold the video cell).
-- Hide promoted tweet from time line.
-- Enable voice tweet and voice message in DM.
-- Confirm alert when hit the tweet button.
-- Confirm alert when hit like button.
+
+1. **BHTwitter:**
+
+> - Download Videos (even if account privet).
+>
+> - Download Videos from DM (hold the video cell).
+>
+> - Hide promoted tweet from timeline.
+>
+> - Enable voice tweet and voice message in DM.
+>
+> - Confirm alert when hit the tweet / like button.
+
+2. **BHTwitterPlus:**
+
+> - **Hide the "Who to Follow" section.**
+>
+> - **Skip Analytics URL** (`t.co`) when opening a link in a Tweet.
+
+3. **TwttrBlue:** Unlock **Undo Tweets** for free.
+
+4. **TwitterAutoHighQuality:** Autoload photos at the highest quality available (up to 4K if possible). Also, add an option to upload 4K images.
+
+
+# Known issues
+
+- "Skip Analytic URL" breaks embed pictures as described [here.](https://github.com/haoict/twitter-no-ads/issues/15)
+
+- Analytics link in cards can't be skipped.
+
+
+# Download (IPA)
+
+- 
+
+
+# Building (Optional)
+
+_(Make a customized version the way you want!)_
+
+## Method 1: Azule (simple way)
+
+1. Setup [Azule](https://github.com/Al4ise/Azule) on your pc (macOS/Linux/iOS)
+
+2. Download all the tweaks you want to inject. **BHTwitterPlus.dylib** can be found in the [Release tab].
+
+3. Run `azule` in any Terminal window and follow the instruction.
+
+4. Select `1. Inject tweaks`, then Drag & drop the **decrypted** Twitter IPA and your prepared tweaks into azule Window. Other options are optional.
+
+5. Done! Azule will take care of the rest!
+
+
+## Method 2: theos-jailed (complex way)
+
+1. Setup [theos-jailed](https://github.com/kabiroberai/theos-jailed/wiki/Installation)
+
+2. Clone this repo:
+
+```
+git clone https://github.com/qnblackcat/BHTwitter-Plus_Sideloaded.git
+```
+
+3. Open `Makefile` and edit the path to your decrypted Twitter IPA. 
+
+4. Optional: Modify the app your way. I suggest you take a look at the [theos-jailed wiki.](https://github.com/kabiroberai/theos-jailed/wiki/Usage)
+
+5. `cd` to the project folder. Run
+```
+make clean package
+```
+
+
+# ScreenShots 
+
+![IMG_1859](https://user-images.githubusercontent.com/52943116/134367319-9e7bca79-4947-46b7-b8ab-d65189bd2d04.PNG)
+
+
+
 
