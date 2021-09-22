@@ -1,6 +1,7 @@
 #import <Foundation/Foundation.h>
 
-/// Hide Who to Follows
+/// Hide Who to Follows 
+/// All Credit goes to @haoict (https://twitter.com/haoict?s=21) and his code: https://github.com/haoict/twitter-no-ads
 
 @interface TFNItemsDataViewController : NSObject
 @property(copy, nonatomic) NSArray *sections;
@@ -25,13 +26,13 @@
 
  %hook TFNItemsDataViewController
 
-/////////////////////
+///////
 
 - (id)tableViewCellForItem:(id)arg1 atIndexPath:(id)arg2 {
       UITableViewCell *tbvCell = %orig;
       id item = [self itemAtIndexPath: arg2];
 
-	  NSString *itemClassName = NSStringFromClass([item classForCoder]);
+	    NSString *itemClassName = NSStringFromClass([item classForCoder]);
 
 	  if ([itemClassName isEqualToString:@"TFNTwitterUser"] && [NSStringFromClass([self class]) isEqualToString:@"T1HomeTimelineItemsViewController"]) {
           [tbvCell setHidden: YES];
@@ -62,16 +63,14 @@
           [tbvCell setHidden: YES];
           return tbvCell;
         }
-      
 	return %orig;
 }
 
-/////////////////////
 
  - (double)tableView:(id)arg1 heightForRowAtIndexPath:(id)arg2 {
-       id item = [self itemAtIndexPath: arg2];
+      id item = [self itemAtIndexPath: arg2];
 
-       NSString *itemClassName = NSStringFromClass([item classForCoder]);
+      NSString *itemClassName = NSStringFromClass([item classForCoder]);
 
         if ([itemClassName isEqualToString:@"TFNTwitterUser"] && [NSStringFromClass([self class]) isEqualToString:@"T1HomeTimelineItemsViewController"]) {
           return 0;
@@ -99,10 +98,12 @@
       
 	return %orig;
 }
-
 %end
 
+
 /// Skip t.co
+/// Credit Goes to onewayticket255 (https://github.com/onewayticket255) for his code: https://github.com/haoict/twitternoads/issues/1
+/// Source code credit goes to Tanner B: https://twitter.com/NSExceptional/status/1258132009798549505
 
 %hook TFSTwitterEntityURL
      - (NSString*)url{
@@ -110,7 +111,9 @@
      }
 %end
 
+
 /// Fix Twitter Login KeyChain
+/// Credit goes to @BandarHL (https://twitter.com/bandarhl?s=21) for his code: https://gist.github.com/BandarHL/e99a4ab4afb3f74f29c9525684092563
 
 %hook TFSKeychain
 - (NSString *)providerDefaultAccessGroup {
