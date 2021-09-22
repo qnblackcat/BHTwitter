@@ -1,3 +1,7 @@
+# Credits:
+- @haoict
+
+
 # BHTwitter
 - awesome Tweak for Twitter
 
