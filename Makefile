@@ -10,11 +10,10 @@ FINALPACKAGE = 1
 TWEAK_NAME = BHTwitterPlus
 DISPLAY_NAME = Twitter
 BUNDLE_ID = com.atebits.Tweetie2
-PACKAGE_VERSION = 8.83.2
 
 
 BHTwitterPlus_FILES = Tweak.xm
-BHTwitterPlus_IPA = /Volumes/Data_Macintosh/Sideloads/IPAs/Twitter_8.83.2.ipa
+BHTwitterPlus_IPA = /..../path/to/your/decrypted/Twitter/ipa
 
 
 include $(THEOS)/makefiles/common.mk
