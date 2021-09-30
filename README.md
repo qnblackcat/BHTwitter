@@ -36,6 +36,8 @@
 > - Enable voice tweet and voice message in DM.
 >
 > - Confirm alert when hit the tweet / like button.
+>
+> - Lock Twitter with passcode.
 
 2. **BHTwitterPlus:**
 
