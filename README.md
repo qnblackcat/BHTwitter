@@ -66,8 +66,8 @@
 
 |   Tweak/App   |    Version   |
 | ------------- | -------------|
-| Twitter | 8.83.1 |
-| BHTwitter | 2.0 |
+| Twitter | 8.83.2 |
+| BHTwitter | 2.1 |
 | BHTwitterPlus | 1.0 |
 | TwttrBlue | 1.0.0 |
 | TwitterAutoHighQuality | 1.1 |
