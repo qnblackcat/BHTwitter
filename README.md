@@ -58,6 +58,9 @@
 
 - Download videos may not work if you use appdb pro.
 
+- appdb pro: if you got an error while downloading a video, follow [this tutorial](https://www.reddit.com/r/sideloaded/comments/pub39h/guide_how_to_fix_uyouuyou_download_not_working/).
+
+
 # Download (IPA)
 
 - **BHTwitterPlus**: [Releases](https://github.com/qnblackcat/BHTwitter-Plus_Sideloaded/releases/).
@@ -81,7 +84,7 @@
 
 ## Method 1: Azule (simple way)
 
-1. Setup [Azule](https://github.com/Al4ise/Azule) on your pc (macOS/Linux/iOS).
+1. Setup [Azule](https://github.com/Al4ise/Azule) on your machine (macOS/Linux/iOS).
 
 2. Download all the tweaks you want to inject. **BHTwitterPlus.dylib** can be found in the [Releases tab](https://github.com/qnblackcat/BHTwitter-Plus_Sideloaded/releases/).
 
