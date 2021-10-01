@@ -12,7 +12,7 @@ DISPLAY_NAME = Twitter
 BUNDLE_ID = com.atebits.Tweetie2
 
 
-BHTwitterPlus_FILES = Tweak.xm
+BHTwitterPlus_FILES = BHTwitterPlus.xm
 BHTwitterPlus_IPA = /..../path/to/your/decrypted/Twitter/IPA
 ### Important: Edit the path to your decrypted Twitter IPA
 
