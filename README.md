@@ -1,3 +1,6 @@
+![IMG_1859](https://user-images.githubusercontent.com/52943116/134367319-9e7bca79-4947-46b7-b8ab-d65189bd2d04.PNG)
+
+
 # Table of Content
 
 * [Credits](#credits)
@@ -7,7 +10,6 @@
 * [Building (Optional)](#building-optional)
    * [Method 1: Azule (simple way)](#method-1-azule-simple-way)
    * [Method 2: theos-jailed (complex way)](#method-2-theos-jailed-complex-way)
-* [Screenshots](#screenshots)
 
 
 # Credits
@@ -67,15 +69,15 @@
 
 > Note: Apple broken all sideload tools on iOS 15.1.
 
-- **Version info:**
+- **Version info (Oct 01):
 
-|   Tweak/App   |    Version   |
-| ------------- | -------------|
-| Twitter | 8.83.2 |
-| BHTwitter | 2.1 |
-| BHTwitterPlus | 1.0 |
-| TwttrBlue | 1.0.0 |
-| TwitterAutoHighQuality | 1.1 |
+| **Tweaks/App**| **Version**  |
+| :-----------: | :-----------:|
+| **Twitter** | 8.83.2 |
+| **BHTwitter** | 2.1 |
+| **BHTwitterPlus** | 1.0 |
+| **TwttrBlue** | 1.0.0 |
+| **TwitterAutoHighQuality** | 1.1 |
 
 
 # Building (Optional)
@@ -109,12 +111,7 @@ git clone https://github.com/qnblackcat/BHTwitter-Plus_Sideloaded.git
 
 4. Optional: Modify the app your way. I suggest you take a look at the [theos-jailed wiki](https://github.com/kabiroberai/theos-jailed/wiki/Usage) and my `Makefile`.
 
-5. `cd` to the project folder. Run
+5. `cd` to the project folder, run:
 ```
 make clean package
 ```
-
-
-# Screenshots 
-
-![IMG_1859](https://user-images.githubusercontent.com/52943116/134367319-9e7bca79-4947-46b7-b8ab-d65189bd2d04.PNG)
