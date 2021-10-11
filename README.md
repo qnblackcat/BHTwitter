@@ -74,7 +74,6 @@
 | **Twitter** | 8.86 |
 | **BHTwitter** | 2.3 |
 | **BHTwitterPlus** | 1.0 |
-| **TwttrBlue** | 1.0.0 |
 | **TwitterAutoHighQuality** | 1.1 |
 
 
