@@ -20,8 +20,6 @@
 
 - [Tanner B](https://twitter.com/NSExceptional) - solution for Skip Analytics URL (`t.co`).
 
-- [CodeyMooreDev](https://twitter.com/codeymooredev?s=21) - developer of [**TwttrBlue**](https://codeymoore.github.io/repo/).
-
 - [Abdullah](https://twitter.com/m3rfwsh?s=21) - developer of [**TwitterAutoHighQuality**](https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=twitterauto4kDp).
 
 
@@ -32,6 +30,8 @@
 > - Download Videos (even if account privet).
 >
 > - Download Videos from DM (hold the video cell).
+> 
+> - Unlock **Undo Tweets** for free.
 >
 > - Hide promoted tweet from timeline.
 >
@@ -47,9 +47,7 @@
 >
 > - **Skip Analytics URL** (`t.co`) when opening a link in a Tweet.
 
-3. **TwttrBlue:** Unlock **Undo Tweets** for free.
-
-4. **TwitterAutoHighQuality:** Autoload photos at the highest quality available (up to 4K if possible). Also, add an option to upload 4K images.
+3. **TwitterAutoHighQuality:** Autoload photos at the highest quality available (up to 4K if possible). Also, add an option to upload 4K images.
 
 
 # Known issues
@@ -73,8 +71,8 @@
 
 | **Tweaks/App**| **Version**  |
 | :-----------: | :-----------:|
-| **Twitter** | 8.83.2 |
-| **BHTwitter** | 2.1 |
+| **Twitter** | 8.86 |
+| **BHTwitter** | 2.3 |
 | **BHTwitterPlus** | 1.0 |
 | **TwttrBlue** | 1.0.0 |
 | **TwitterAutoHighQuality** | 1.1 |

@@ -1,4 +1,4 @@
-BHTwitterPlus_INJECT_DYLIBS = Tweaks/BHTwitter.dylib Tweaks/TwttrBlue.dylib Tweaks/TwitterAuto4K.dylib 
+BHTwitterPlus_INJECT_DYLIBS = Tweaks/BHTwitter.dylib Tweaks/TwitterAuto4K.dylib 
 
 
 ARCHS = arm64 arm64e
