@@ -72,7 +72,7 @@
 | **Tweaks/App**| **Version**  |
 | :-----------: | :-----------:|
 | **Twitter** | 8.86 |
-| **BHTwitter** | 2.3 |
+| **BHTwitter** | 2.5-1 |
 | **BHTwitterPlus** | 1.0 |
 | **TwitterAutoHighQuality** | 1.1 |
 
