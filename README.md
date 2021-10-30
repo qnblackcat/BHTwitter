@@ -40,6 +40,8 @@
 > - Confirm alert when hit the tweet / like button.
 >
 > - Lock Twitter with passcode.
+>
+> - Enable Reader mode.
 
 2. **BHTwitterPlus:**
 
@@ -67,7 +69,7 @@
 
 > Note: Apple broken all sideload tools on iOS 15.1.
 
-- **Version info (Oct 01):
+- **Version info** (Oct 01):
 
 | **Tweaks/App**| **Version**  |
 | :-----------: | :-----------:|
@@ -106,7 +108,7 @@ git clone https://github.com/qnblackcat/BHTwitter-Plus_Sideloaded.git
 
 3. Open `Makefile` and edit the path to your decrypted Twitter IPA. 
 
-4. Optional: Modify the app your way. I suggest you take a look at the [theos-jailed wiki](https://github.com/kabiroberai/theos-jailed/wiki/Usage) and my `Makefile`.
+4. Optional: Modify the app your way. I suggest you take a look at the [theos-jailed wiki](https://github.com/kabiroberai/theos-jailed/wiki/Usage).
 
 5. `cd` to the project folder, run:
 ```
