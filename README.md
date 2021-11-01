@@ -67,8 +67,6 @@
 
 - **BHTwitterPlus**: [Releases](https://github.com/qnblackcat/BHTwitter-Plus_Sideloaded/releases/).
 
-> Note: Apple broken all sideload tools on iOS 15.1.
-
 - **Version info** (Oct 01):
 
 | **Tweaks/App**| **Version**  |
