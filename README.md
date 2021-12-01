@@ -69,7 +69,7 @@
 
 - For AltStore user: [Open in AltStore](https://tinyurl.com/2j2652t8). (Note: It will take a while to install because AltStore need to download the IPA.).
 
-- **Version info** (Oct 01):
+- **Version info** (Dec 01):
 
 | **Tweaks/App**| **Version**  |
 | :-----------: | :-----------:|
