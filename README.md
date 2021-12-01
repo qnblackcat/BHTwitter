@@ -20,36 +20,36 @@
 
 - [Tanner B](https://twitter.com/NSExceptional) - solution for Skip Analytics URL (`t.co`).
 
-- [Abdullah](https://twitter.com/m3rfwsh?s=21) - developer of [**TwitterAutoHighQuality**](https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=twitterauto4kDp).
-
 
 # Features
 
-1. **BHTwitter:**
+## 1. **BHTwitter:**
 
-> - Download Videos (even if account privet).
->
-> - Download Videos from DM (hold the video cell).
-> 
-> - Unlock **Undo Tweets** for free.
->
-> - Hide promoted tweet from timeline.
->
-> - Enable voice tweet and voice message in DM.
->
-> - Confirm alert when hit the tweet / like button.
->
-> - Lock Twitter with passcode.
->
-> - Enable Reader mode.
+- Download Videos (even if account private).
 
-2. **BHTwitterPlus:**
+- Download Videos from DM (hold the video cell).
 
-> - **Hide the "Who to Follow" section.**
->
-> - **Skip Analytics URL** (`t.co`) when opening a link in a Tweet.
+- Font changer feature. "If you want use custom fonts, download iFont app from App store and installed (as profile). And should be visible in BHTwitter".
 
-3. **TwitterAutoHighQuality:** Autoload photos at the highest quality available (up to 4K if possible). Also, add an option to upload 4K images.
+- Unlock **Undo Tweets** for free.
+
+- Hide promoted tweet from timeline.
+
+- Enable voice tweet and voice message in DM.
+
+- Confirm alert when hit the tweet / like button.
+
+- Lock Twitter with passcode.
+
+- Enable Reader mode.
+
+- Auto load photos in highest quality feature
+
+## 2. **BHTwitterPlus:**
+
+- **Hide the "Who to Follow" section.**
+
+- **Skip Analytics URL** (`t.co`) when opening a link in a Tweet.
 
 
 # Known issues
@@ -67,16 +67,15 @@
 
 - **BHTwitterPlus**: [Releases](https://github.com/qnblackcat/BHTwitter-Plus_Sideloaded/releases/).
 
-> Note: Apple broken all sideload tools on iOS 15.1.
+- For AltStore user: [Open in AltStore](https://tinyurl.com/2j2652t8). (Note: It will take a while to install because AltStore need to download the IPA.).
 
-- **Version info** (Oct 01):
+- **Version info** (Dec 01):
 
 | **Tweaks/App**| **Version**  |
 | :-----------: | :-----------:|
-| **Twitter** | 8.89 |
-| **BHTwitter** | 2.7 |
+| **Twitter** | 8.92.3 |
+| **BHTwitter** | 2.8 |
 | **BHTwitterPlus** | 1.0 |
-| **TwitterAutoHighQuality** | 1.1 |
 
 
 # Building (Optional)
