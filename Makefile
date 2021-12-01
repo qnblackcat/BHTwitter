@@ -1,4 +1,4 @@
-BHTwitterPlus_INJECT_DYLIBS = Tweaks/BHTwitter.dylib Tweaks/TwitterAuto4K.dylib 
+BHTwitterPlus_INJECT_DYLIBS = Tweaks/BHTwitter.dylib
 
 ARCHS = arm64 arm64e
 MODULES = jailed
@@ -10,7 +10,7 @@ DISPLAY_NAME = Twitter
 BUNDLE_ID = com.atebits.Tweetie2
 
 BHTwitterPlus_FILES = BHTwitterPlus.xm
-BHTwitterPlus_IPA = /Volumes/Data_Macintosh/Sideloads/IPAs/Twitter_8.89.ipa
+BHTwitterPlus_IPA = /path/to/your/decrypted/Twitter/IPA
 ### Important: Edit the path to your decrypted Twitter IPA!
 
 include $(THEOS)/makefiles/common.mk
