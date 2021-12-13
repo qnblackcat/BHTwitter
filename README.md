@@ -67,7 +67,16 @@
 
 - **BHTwitterPlus**: [Releases](https://github.com/qnblackcat/BHTwitter-Plus_Sideloaded/releases/).
 
-- For AltStore user: [Open in AltStore](https://tinyurl.com/2j2652t8). (Note: It will take a while to install because AltStore need to download the IPA.).
+## AltStore users
+### Add the repo (automatic updates)
+Note: you must have the AltStore beta, which you can download [here](https://altsource.by.lao.sb/browse/?source=https%3A%2F%2Fapps.altstore.io)
+1. Open altstore
+2. click "Sources"
+3. click the + button
+4. [paste this URL](https://raw.githubusercontent.com/qnblackcat/BHTwitter-Plus_Sideloaded/main/apps.json)
+
+### sideload
+[click this link to open in AltStore](https://tinyurl.com/2j2652t8). (Note: It will take a while to install because AltStore need to download the IPA.).
 
 - **Version info** (Dec 01):
 
