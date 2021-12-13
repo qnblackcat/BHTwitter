@@ -1,0 +1,30 @@
+{
+  "apps": [
+    {
+      "beta": false,
+      "bundleIdentifier": "com.qnblackcat.BHTwitterPlus",
+      "developerName": "Nguyễn Đạt",
+      "downloadURL": "https://github.com/qnblackcat/BHTwitter-Plus_Sideloaded/releases/download/v8.92.3-2.8/BHTwitterPlus_8.92.3-2.8.ipa",
+      "iconURL": "https://www.uniquepac.com/images/twitter_icon.png",
+      "localizedDescription": "Features:\nBHTwitter:\n\n>- Download Videos (even if account privet).\n>\n>- Download Videos from DM (hold the video cell).\n>\n>- Hide promoted tweet from timeline.\n>\n>- Enable voice tweet and voice message in DM.\n>\n>- Confirm alert when hit the tweet / like button. > >- Unlock Undo Tweets for free.\n\n2. BHTwitterPlus:\n\n>- Hide the \"Who to Follow\" section.\n>\n>- Skip Analytics URL (t.co) when opening a link in a Tweet.\n\n3. TwitterAutoHighQuality: Autoload photos at the highest quality available (up to 4K if possible). It also adds an option to upload 4K images.",
+      "name": "BHTwitter Plus",
+      "screenshotURLs": [
+        "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/2f/eb/a5/2feba566-bcdb-5411-dba2-32a3eef686b8/pr_source.png/1000x1000bb.png",
+        "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/79/76/7e/79767ec9-134d-62a4-1824-6912de017e24/mzl.svdgjlai.png/1000x1000bb.png",
+        "https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/96/e6/9f/96e69f82-658d-8786-b751-3b168c775e12/mzl.anjpmvof.png/1000x1000bb.png",
+        "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/ba/97/8d/ba978d1d-5d52-8916-23b2-34b87c340562/mzl.grtamtoc.png/1000x1000bb.png",
+        "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/3c/0e/14/3c0e1420-6f88-aef6-b077-ca6a79cbc9f4/mzl.fplbrgrt.png/1000x1000bb.png"
+      ],
+      "size": 2184796,
+      "subtitle": "No Twitter ads, Download videos, Unlock Redo Tweets, Skip analytics URL... and more",
+      "tintColor": "1da1f2",
+      "version": "8.92.3",
+      "versionDate": "2021-12-01T14:00:00-07:00",
+      "versionDescription": "1. BHTwitter v2.8:\n    - Added Font changer feature\n    - Added Auto load photos in highest quality feature\n    - Added an button to copy user profile information next to their avatar.\n    - Update FLEX to lasted version\n    - Fix bugs in iPAD\n2. Twitter v8.92.3\n3. Remove TwitterAutoHighQuality because it's a feature of BHTwitter now."
+    }
+  ],
+  "identifier": "com.example.source",
+  "name": "Source Name",
+  "news": [],
+  "userInfo": {}
+}
