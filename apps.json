@@ -23,8 +23,8 @@
       "versionDescription": "1. BHTwitter v2.8:\n    - Added Font changer feature\n    - Added Auto load photos in highest quality feature\n    - Added an button to copy user profile information next to their avatar.\n    - Update FLEX to lasted version\n    - Fix bugs in iPAD\n2. Twitter v8.92.3\n3. Remove TwitterAutoHighQuality because it's a feature of BHTwitter now."
     }
   ],
-  "identifier": "com.example.source",
-  "name": "Source Name",
+  "identifier": "com.qnblackcat.BHTwitterPlus",
+  "name": "BHTwitterPlus",
   "news": [],
   "userInfo": {}
 }
