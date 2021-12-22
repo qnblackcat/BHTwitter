@@ -10,7 +10,7 @@ DISPLAY_NAME = Twitter
 BUNDLE_ID = com.atebits.Tweetie2
 
 BHTwitterPlus_FILES = BHTwitterPlus.xm
-BHTwitterPlus_IPA = /path/to/your/decrypted/Twitter/IPA
+BHTwitterPlus_IPA = /Volumes/Data_Macintosh/Sideloads/IPAs/Twitter_8.94.ipa
 ### Important: Edit the path to your decrypted Twitter IPA!
 
 include $(THEOS)/makefiles/common.mk

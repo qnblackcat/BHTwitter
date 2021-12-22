@@ -23,29 +23,29 @@
 
 # Features
 
-## 1. **BHTwitter:**
+## 1. BHTwitter
 
-- Download Videos (even if account private).
+- Download Videos (even with private accounts).
 
 - Download Videos from DM (hold the video cell).
 
-- Font changer feature. "If you want use custom fonts, download iFont app from App store and installed (as profile). And should be visible in BHTwitter".
-
 - Unlock **Undo Tweets** for free.
 
-- Hide promoted tweet from timeline.
+- Hide promoted tweet from the timeline.
 
 - Enable voice tweet and voice message in DM.
 
-- Confirm alert when hit the tweet / like button.
+- Confirm alert when Like/Dislike.
 
 - Lock Twitter with passcode.
 
 - Enable Reader mode.
 
-- Auto load photos in highest quality feature
+- Autoload photos in the highest quality.
 
-## 2. **BHTwitterPlus:**
+- For the complete list of features, see [here](https://repo.packix.com/package/com.bandarhl.BHTwitter/)
+
+## 2. BHTwitterPlus
 
 - **Hide the "Who to Follow" section.**
 
@@ -58,29 +58,29 @@
 
 - Analytics link in cards can't be skipped.
 
-- Download videos may not work if you use appdb pro.
-
-- appdb pro: if you got an error while downloading a video, follow [this tutorial](https://www.reddit.com/r/sideloaded/comments/pub39h/guide_how_to_fix_uyouuyou_download_not_working/).
+- Downloading videos may not work if you use appdb pro. If you see any error while downloading a video, try to follow [this tutorial](https://www.reddit.com/r/sideloaded/comments/pub39h/guide_how_to_fix_uyouuyou_download_not_working/).
 
 
 # Download (IPA)
 
 - **BHTwitterPlus**: [Releases](https://github.com/qnblackcat/BHTwitter-Plus_Sideloaded/releases/).
 
-- For AltStore user: [Open in AltStore](https://tinyurl.com/2j2652t8). (Note: It will take a while to install because AltStore need to download the IPA.).
+- For AltStore user: [Open in AltStore](https://tinyurl.com/mvfzd5jh). (Note: It will take a while to install because AltStore needs to download the IPA.).
 
-- **Version info** (Dec 01):
+- **Version info** (Dec 22):
 
 | **Tweaks/App**| **Version**  |
 | :-----------: | :-----------:|
-| **Twitter** | 8.92.3 |
-| **BHTwitter** | 2.8 |
+| **Twitter** | 8.94 |
+| **BHTwitter** | 2.9 |
 | **BHTwitterPlus** | 1.0 |
 
 
 # Building (Optional)
+<details>
+  <summary>Expand</summary>
 
-> Note: You'll need to fix Twitter login using BandarHL solution. I included his fix in [BHTwitterPlus.dylib](https://github.com/qnblackcat/BHTwitter-Plus_Sideloaded/releases/) so you can use my dylib as well.
+> Attention: You'll need to fix Twitter login using BandarHL's [method](https://gist.github.com/BandarHL/e99a4ab4afb3f74f29c9525684092563). You can use my compiled dylib as well [BHTwitterPlus.dylib](https://github.com/qnblackcat/BHTwitter-Plus_Sideloaded/releases/).
 
 ## Method 1: Azule (simple way)
 
@@ -113,3 +113,4 @@ git clone https://github.com/qnblackcat/BHTwitter-Plus_Sideloaded.git
 ```
 make clean package
 ```
+<details>
