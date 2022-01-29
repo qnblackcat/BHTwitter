@@ -65,13 +65,17 @@
 
 - **BHTwitterPlus**: [Releases](https://github.com/qnblackcat/BHTwitter-Plus_Sideloaded/releases/).
 
-- For AltStore user: [Open in AltStore](https://tinyurl.com/mvfzd5jh). (Note: It will take a while to install because AltStore needs to download the IPA.).
+- For AltStore user: 
+
+  - My official AtlStore repo: https://qnblackcat.github.io/AltStore/
+ 
+  - [Open in AltStore](https://tinyurl.com/5n9262r4). (Note: It will take a while to install because AltStore needs to download the IPA.). 
 
 - **Version info** (Dec 22):
 
 | **Tweaks/App**| **Version**  |
 | :-----------: | :-----------:|
-| **Twitter** | 8.94 |
+| **Twitter** | 8.97.2 |
 | **BHTwitter** | 2.9 |
 | **BHTwitterPlus** | 1.0 |
 
@@ -88,12 +92,7 @@
 
 2. Download all the tweaks you want to inject. **BHTwitterPlus.dylib** can be found in the [Releases tab](https://github.com/qnblackcat/BHTwitter-Plus_Sideloaded/releases/).
 
-3. Run `azule` in any Terminal window and follow the instruction.
-
-4. Select `1. Inject tweaks`, then Drag & drop the **decrypted** Twitter IPA and your prepared tweaks into azule Window. Other options are optional.
-
-5. Done! Azule will take care of the rest!
-
+3. Run `azule -h` in any Terminal window and follow the instruction.
 
 ## Method 2: theos-jailed (complex way)
 
