@@ -69,14 +69,14 @@
 
   - My official AtlStore repo: https://qnblackcat.github.io/AltStore/
  
-  - [Open in AltStore](https://tinyurl.com/5n9262r4). (Note: It will take a while to install because AltStore needs to download the IPA.). 
+  - [Open in AltStore - v9.2-2.9.2](https://tinyurl.com/yd2tz5z5). (Note: It will take a while to install because AltStore needs to download the IPA.). 
 
-- **Version info** (Dec 22):
+- **Version info** (Mar 07):
 
 | **Tweaks/App**| **Version**  |
 | :-----------: | :-----------:|
-| **Twitter** | 8.97.2 |
-| **BHTwitter** | 2.9 |
+| **Twitter** | 9.2 |
+| **BHTwitter** | 2.9.2 |
 | **BHTwitterPlus** | 1.0 |
 
 

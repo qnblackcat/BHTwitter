@@ -1,4 +1,5 @@
 #import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
 
 /// Hide Who to Follows 
 /// All Credit goes to @haoict (https://twitter.com/haoict?s=21) and his code: https://github.com/haoict/twitter-no-ads
