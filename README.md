@@ -1,3 +1,5 @@
+# ⚠️⚠️⚠️ Please follow BandarHelal ([@BandarHL](https://twitter.com/bandarhl?s=21)) on Twitter to get the latest version of BHTwitter iPA!
+
 ![IMG_1859](https://user-images.githubusercontent.com/52943116/134367319-9e7bca79-4947-46b7-b8ab-d65189bd2d04.PNG)
 
 
